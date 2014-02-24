@@ -1,4 +1,4 @@
 iftables
 =======
 
-Chronic is a Linux iptable wrapper in C++.
+iftables is a Linux iptable wrapper in C++.
